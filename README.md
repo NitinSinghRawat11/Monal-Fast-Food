@@ -1,8 +1,8 @@
-# Monal-Fast-Food
-Developed a dynamic restaurant website using ReactJS. Integrated a floating AI chatbot button for customer interaction. Language Used: ReactJs.
-This project is a dynamic restaurant website built using ReactJS, designed to provide a seamless digital food-ordering experience. It includes essential features such as user authentication (login/register), dish selection, and online order placement. To enhance customer interaction, the website integrates a floating AI-powered chatbot, which expands into a full interface to assist users with queries, menu recommendations, and order guidance. By combining modern web development practices with AI-driven support, this project demonstrates how technology can improve the efficiency and customer experience of the food service industry.
-**Tech Stack:**
-- Frontend: ReactJS
-- AI Chatbot: Integrated with React components
-- Styling: CSS
-- Authentication: Basic login system
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
